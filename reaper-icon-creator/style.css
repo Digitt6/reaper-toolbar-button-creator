@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+#controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  margin-top: 1rem;
+}
